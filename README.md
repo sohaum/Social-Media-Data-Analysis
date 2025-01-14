@@ -109,8 +109,4 @@ The dataset is generated programmatically with the following fields:
 - Include demographic data to analyze engagement by audience segment.
 - Apply machine learning models to predict future engagement trends.
 
-## License
-
-This project is licensed under the MIT License. Feel free to use, modify, and distribute this project as per the terms of the license.
-
 Happy analyzing! 🚀
